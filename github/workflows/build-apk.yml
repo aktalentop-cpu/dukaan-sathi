@@ -1,4 +1,4 @@
-name: Build Apna Dukaan APK
+name: Build Dukaan Sathi APK
 
 on:
   workflow_dispatch:
